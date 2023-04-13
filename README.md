@@ -15,9 +15,7 @@ james_bassani@yahoo.com
 
 # O Projeto
   
- Atualmente, um mesmo site ou interface pode ser acessado por diferentes tamanhos de tela, como em celulares, tablets, notebooks ou smart TVs. O Flexbox vem como uma solução de layout para essa realidade, e é formado por um grupo de propriedades que permite criar interfaces com um perfil moderno, ajustáveis para diferentes tamanhos de tela.
-  
-O projeto, chamado AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops.
+O projeto, chamado Alura Play, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops. O Flexbox vem como uma solução de layout para essa realidade, e é formado por um grupo de propriedades que permite criar interfaces com um perfil moderno, ajustáveis para diferentes tamanhos de tela.
   
 -  Começaremos analisando a tela para celulares.
   

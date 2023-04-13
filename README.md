@@ -14,16 +14,35 @@ Estou sempre buscando melhorar meu código,Ficarei feliz com seu feedback.
 james_bassani@yahoo.com
 
 # O Projeto
+  
+ Atualmente, um mesmo site ou interface pode ser acessado por diferentes tamanhos de tela, como em celulares, tablets, notebooks ou smart TVs. O Flexbox vem como uma solução de layout para essa realidade, e é formado por um grupo de propriedades que permite criar interfaces com um perfil moderno, ajustáveis para diferentes tamanhos de tela.
+  
 O projeto, chamado AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops.
   
- Começaremos analisando a tela para celulares, que possui um cabeçalho com logo e ícones. Abaixo desse cabeçalho, teremos uma seção com várias opções de navegação no site.
+-  Começaremos analisando a tela para celulares.
+  
+  Ele possui um cabeçalho com logo e ícones. Abaixo desse cabeçalho, teremos uma seção com várias opções de navegação no site. Ao fim da página, temos um rodapé com vários tópicos relacionados à área da tecnologia, além de um menu inferior com cinco opções de navegação no site.
+  
+  <p align=center>
+    <image width="270" heigth="270" src='https://github.com/Jheimys/assets/blob/master/aluraplayCelular.png'>
+  </p>
 
+  - Agora analisaremos o layout para tablets. 
+    
+    Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois    por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.
+    
+    <p align=center>
+     <image width="470" heigth="170" src='https://github.com/Jheimys/assets/blob/master/aluraplayTablet.png'>
+    </p>
 
-![mochila](https://github.com/Jheimys/assets/blob/master/mochila.png)
+- Por fim, analisaremos o layout para desktops.
+      
+   Neste layout, o menu expande de tamanho e ganha mais elementos, os vídeos são distribuídos quatro por linha e o rodapé se expande com os tópicos um ao lado do outro.
+      
+     <p align=center>
+      <image width="570" heigth="570" src='https://github.com/Jheimys/assets/blob/master/aluraplayDesk.png'>
+    </p>
 
-<p align=center>
-  <image width="270" heigth="370" src='https://github.com/Jheimys/assets/blob/master/mochila-responsiva.jpeg'>
-</p>
 
 # Tecnologias:
 

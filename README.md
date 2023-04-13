@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
 
 <p align=center>
- 
+  <image width="570" heigth="570" src='https://github.com/Jheimys/assets/blob/master/aluraPlay.gif'>
 </p>
 
 ## Bem vindo! 👋
